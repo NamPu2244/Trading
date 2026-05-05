@@ -49,3 +49,4 @@ trading-ai/
 ├── frontend/       # Next.js frontend
 └── scripts/        # Setup & startup scripts
 ```
+# Trading
